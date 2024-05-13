@@ -1,0 +1,24 @@
+Reliable networks {
+
+    Fault Tolerance is to have connections cross connect to other nodes or servers. It ensures that any data that fails to send, can be sent through another route in order
+    to complete the request.
+
+    Scalability is the process of a network expanding to allow new users and applications. It does this without degrading the performance of services. The networks are scalable because the designers follow accepted standards and protocols. 
+
+    Quality of service is managing congestion and ensuring reliable delivery of content to all users (i.e streaming voice, video, or other forms of content). Congestion occurs when the demand of bandwith exceeds the amount available, causing breaks, stutters, and pauses. When traffic is greater than what can be transported across the network, devices hold the packets in their memory until resources free up for them to be delivered. The focus of QoS is the prioritize time sensitive data such as voice calls. The type of traffic, not the content is what is important. 
+
+    Network Security is securing network infrastructure, services, and data contained on network attached devices. The three main goals in network security are Confidentiality, Integrity, and Availability. 
+        Confidentiality : Data confidentiality is making sure only the intended and authorized recipients can access and read the data. 
+        Integrity : Data integrity is assuring users that the data has not been altered in transmission from origin to destination. 
+        Availability : Data availability is assuring users timely and reliable access to data services for authorized users. 
+    
+
+}
+
+Network Trends {
+
+    BYOD (Bring Your Own Device) enables users to utilize their personal end device to access information and communicate across a campus or business network. BYOD means any device, with any ownership, used anywhere.
+
+    Online Collaboration is allowing users to collaborate with one another. Online collaboration is a critical priority to ensure efficient work flow in a business setting. 
+}
+
